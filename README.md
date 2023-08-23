@@ -20,7 +20,4 @@ Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vov
 
 Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
 
-[Entre em contacto]
-(antonioteca@hotmail.com)
-[]
-(antoniojosebuaioteca@gmail.com)
+[Entre em contacto] antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
