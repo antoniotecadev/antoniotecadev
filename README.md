@@ -7,6 +7,25 @@ Olá!, Sou António Teca, um entusiasta de desenvolvimento de software com paix�
 ### Sobre MiM
 
 Sou um desenvolvedor apaixonado por:
+- Java: [Documentação Java](https://docs.oracle.com/en/java/)
+- PHP: [Documentação PHP](https://www.php.net/docs.php)
+- JavaScript: [Documentação JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Solidity: [Documentação Solidity](https://soliditylang.org/docs/)
+- MySQL: [Documentação MySQL](https://dev.mysql.com/doc/)
+- HTML: [Documentação HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- CSS: [Documentação CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Android: [Documentação Android](https://developer.android.com/docs)
+- Swing: [Documentação Swing](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
+- JavaFX: [Documentação JavaFX](https://openjfx.io/documentation/)
+- Laravel: [Documentação Laravel](https://laravel.com/docs/)
+- React: [Documentação React](https://reactjs.org/docs/)
+- React Native: [Documentação React Native](https://reactnative.dev/docs/)
+- Next.js: [Documentação Next.js](https://nextjs.org/docs/)
+- Inertia.js: [Documentação Inertia.js](https://inertiajs.com/)
+- Bootstrap: [Documentação Bootstrap](https://getbootstrap.com/docs/)
+- Tailwind CSS: [Documentação Tailwind CSS](https://tailwindcss.com/docs)
+- WordPress: [Documentação WordPress](https://codex.wordpress.org/)
+- Ethereum: [Documentação Ethereum](https://ethereum.org/developers/)
 
 Meu objectivo é transformar ideias em realidade por meio de código, acredito que a colaboração e a busca pela melhoria contínua são fundamentais para o sucesso de qualquer projecto.
 
