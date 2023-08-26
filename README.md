@@ -105,7 +105,7 @@ Foco em micro negócios e pequenos empreendedores:
   
 ## Demonstração da Aplicação
 
-Inclua capturas de tela ou gifs animados que demonstram os principais fluxos da aplicação. Isso ajuda os visitantes do seu repositório a terem uma ideia visual do que a aplicação oferece.
+[![Assista à apresentação do MboraSystem](https://img.youtube.com/vi/dBaAwAXRGPY/0.jpg)](https://youtu.be/dBaAwAXRGPY)
 
 ## Instruções para Visualizar o Projeto
 
