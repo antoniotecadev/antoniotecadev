@@ -105,23 +105,47 @@ Foco em micro negócios e pequenos empreendedores:
   
 ## Demonstração da Aplicação
 
-Inclua capturas de tela ou gifs animados que demonstram os principais fluxos da aplicação. Isso ajuda os visitantes do seu repositório a terem uma ideia visual do que a aplicação oferece.
+Para ver click na imagem  
+[![Assista à apresentação do MboraSystem](https://img.youtube.com/vi/dBaAwAXRGPY/0.jpg)](https://youtu.be/dBaAwAXRGPY)
 
-## Instruções para Visualizar o Projeto
+## Instruções para instalar a aplicação
 
-1. Clone este repositório.
-2. Abra o projeto no Android Studio.
-3. Configure as chaves de acesso (se necessário).
-4. Execute a aplicação em um emulador ou dispositivo físico.
+Entra em contacto
+
+**Whatsapp:** (tel:+244 937 115 891)  
+**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
 
 ## Referências
 
-- Links para recursos relevantes, tutoriais, documentações ou artigos que você consultou ao desenvolver a aplicação.
+- Android: [Documentação Android](https://developer.android.com/docs)
+- room-runtime: [GitHub](https://github.com/android/architecture-components-samples/tree/master/RoomSample)
+- room-paging: [GitHub](https://github.com/android/architecture-components-samples/tree/master/PagingSample)
+- room-rxjava: [GitHub](https://github.com/android/architecture-components-samples/tree/master/RxJavaSample)
+- rxandroid: [GitHub](https://github.com/ReactiveX/RxAndroid)
+- rxjava: [GitHub](https://github.com/ReactiveX/RxJava)
+- lifecycle-viewmodel: [GitHub](https://developer.android.com/topic/libraries/architecture/viewmodel)
+- lifecycle-livedata: [GitHub](https://developer.android.com/topic/libraries/architecture/livedata)
+- groupie: [GitHub](https://github.com/lisawray/groupie)
+- paging-runtime: [GitHub](https://developer.android.com/topic/libraries/architecture/paging)
+- paging-rxjava: [GitHub](https://developer.android.com/topic/libraries/architecture/paging/rxjava)
+- Firebase: [Firebase](https://firebase.google.com/)
+- jlibs-xsd: [GitHub](https://github.com/jlibs/jlibs)
+- biometric: [GitHub](https://developer.android.com/jetpack/androidx/releases/biometric)
+- rhino-android: [GitHub](https://github.com/mozilla/rhino)
+- ion: [GitHub](https://github.com/koush/ion)
+- eazegraph: [GitHub](https://github.com/blackfizz/EazeGraph)
+- itextg: [GitHub](https://github.com/itext/itextg)
+- zxing-android-embedded: [GitHub](https://github.com/journeyapps/zxing-android-embedded)
+
+## Documentação
+
+- [Política de Privacidade](https://1drv.ms/b/s!AqhOao7_fjnSjTdcM0rgRgNr5y7v?e=YuCM70)
+- [Manual do ultilizador](https://1drv.ms/b/s!AqhOao7_fjnS3zXEePGzVU53WBTo?e=OTviaO)
+- [Certificado de Validação AGT](https://1drv.ms/b/s!AqhOao7_fjnS6A4iXNoD-1mqa95r?e=CcC8j9)
 
 ## Observações
 
-Qualquer observação adicional que você gostaria de compartilhar sobre o processo de desenvolvimento, desafios enfrentados ou lições aprendidas.
-
+N/A
 ---
 
 *Este projeto é certificado pela AGT (Autoridade Geral Tributária) e atende a todos os requisitos legais para gestão e facturação.*
@@ -132,4 +156,7 @@ Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vov
 
 Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
 
-[Entre em contacto] antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+Entra em contacto
+
+**Whatsapp:** (tel:+244 937 115 891)  
+**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
