@@ -139,8 +139,7 @@ Entra em contacto
 
 ## Observações
 
-Qualquer observação adicional que você gostaria de compartilhar sobre o processo de desenvolvimento, desafios enfrentados ou lições aprendidas.
-
+N/A
 ---
 
 *Este projeto é certificado pela AGT (Autoridade Geral Tributária) e atende a todos os requisitos legais para gestão e facturação.*
@@ -151,4 +150,7 @@ Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vov
 
 Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
 
-[Entre em contacto] antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+Entra em contacto
+
+**Whatsapp:** (tel:+244 937 115 891)  
+**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
