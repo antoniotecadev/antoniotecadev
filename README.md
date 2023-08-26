@@ -137,6 +137,12 @@ Entra em contacto
 - itextg: [GitHub](https://github.com/itext/itextg)
 - zxing-android-embedded: [GitHub](https://github.com/journeyapps/zxing-android-embedded)
 
+## Documentação
+
+- [Política de Privacidade](https://1drv.ms/b/s!AqhOao7_fjnSjTdcM0rgRgNr5y7v?e=YuCM70)
+- [Manual do ultilizador](https://1drv.ms/b/s!AqhOao7_fjnS3zXEePGzVU53WBTo?e=OTviaO)
+- [Certificado de Validação AGT](https://1drv.ms/b/s!AqhOao7_fjnS6A4iXNoD-1mqa95r?e=CcC8j9)
+
 ## Observações
 
 N/A
