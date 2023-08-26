@@ -105,14 +105,15 @@ Foco em micro negócios e pequenos empreendedores:
   
 ## Demonstração da Aplicação
 
+Para ver click na imagem  
 [![Assista à apresentação do MboraSystem](https://img.youtube.com/vi/dBaAwAXRGPY/0.jpg)](https://youtu.be/dBaAwAXRGPY)
 
-## Instruções para Visualizar o Projeto
+## Instruções para instalar a aplicação
 
-1. Clone este repositório.
-2. Abra o projeto no Android Studio.
-3. Configure as chaves de acesso (se necessário).
-4. Execute a aplicação em um emulador ou dispositivo físico.
+Entra em contacto
+
+**Whatsapp:** (tel:+244 937 115 891)  
+**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
 
 ## Referências
 
