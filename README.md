@@ -117,7 +117,25 @@ Entra em contacto
 
 ## Referências
 
-- Links para recursos relevantes, tutoriais, documentações ou artigos que você consultou ao desenvolver a aplicação.
+- Android: [Documentação Android](https://developer.android.com/docs)
+- room-runtime: [GitHub](https://github.com/android/architecture-components-samples/tree/master/RoomSample)
+- room-paging: [GitHub](https://github.com/android/architecture-components-samples/tree/master/PagingSample)
+- room-rxjava: [GitHub](https://github.com/android/architecture-components-samples/tree/master/RxJavaSample)
+- rxandroid: [GitHub](https://github.com/ReactiveX/RxAndroid)
+- rxjava: [GitHub](https://github.com/ReactiveX/RxJava)
+- lifecycle-viewmodel: [GitHub](https://developer.android.com/topic/libraries/architecture/viewmodel)
+- lifecycle-livedata: [GitHub](https://developer.android.com/topic/libraries/architecture/livedata)
+- groupie: [GitHub](https://github.com/lisawray/groupie)
+- paging-runtime: [GitHub](https://developer.android.com/topic/libraries/architecture/paging)
+- paging-rxjava: [GitHub](https://developer.android.com/topic/libraries/architecture/paging/rxjava)
+- Firebase: [Firebase](https://firebase.google.com/)
+- jlibs-xsd: [GitHub](https://github.com/jlibs/jlibs)
+- biometric: [GitHub](https://developer.android.com/jetpack/androidx/releases/biometric)
+- rhino-android: [GitHub](https://github.com/mozilla/rhino)
+- ion: [GitHub](https://github.com/koush/ion)
+- eazegraph: [GitHub](https://github.com/blackfizz/EazeGraph)
+- itextg: [GitHub](https://github.com/itext/itextg)
+- zxing-android-embedded: [GitHub](https://github.com/journeyapps/zxing-android-embedded)
 
 ## Observações
 
