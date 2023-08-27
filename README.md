@@ -1,4 +1,4 @@
-# António Teca - Portifólio de Desenvolvimento de software (Projectos)
+# António Teca - Portifólio de Desenvolvimento de Software (Projectos)
 
 ## Bem-Vindo
 
@@ -29,7 +29,7 @@ Sou um desenvolvedor apaixonado por:
 
 Meu objectivo é transformar ideias em realidade por meio de código, acredito que a colaboração e a busca pela melhoria contínua são fundamentais para o sucesso de qualquer projecto.
 
-### O que você encontrará Aqui
+### O que você encontrará aqui
 
 Neste portfólio, você encontrará uma variedade de projectos:  
 - [MboraSystem](#mborasystem)
