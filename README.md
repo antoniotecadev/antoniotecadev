@@ -31,10 +31,14 @@ Meu objectivo é transformar ideias em realidade por meio de código, acredito q
 
 ### O que Você Encontrará Aqui
 
-Neste portfólio, você encontrará uma variedade de projectos, desde [descrição de um projecto]. Cada projecto possui uma descrição detalhada, que explora as escolhas de design, desafios técnicos superados e lições aprendidas.
+Neste portfólio, você encontrará uma variedade de projectos:  
+- [Introdução](#mborasystem)
+- [Configuração](#mbora)
+
+Cada projecto possui uma descrição detalhada, que explora as escolhas de design, desafios técnicos superados e lições aprendidas.
 
 # MboraSystem
-
+<a id="mborasystem"></a>
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/antonioteca/antonioteca/blob/main/MboraSystem/Imagens/mborasystem_20221010-223727.png" alt="Imagem 2" width="10%" />
     <img src="https://github.com/antonioteca/antonioteca/blob/main/MboraSystem/Imagens/mborasystem_20221010-233951.png" alt="Imagem 3" width="10%" />
@@ -163,7 +167,7 @@ Entra em contacto
 **E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
 
 # Mbora
-
+<a id="mbora"></a>
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0002.jpg" alt="Imagem 1" width="10%" />
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0006.jpg" alt="Imagem 2" width="10%" />
