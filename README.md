@@ -143,12 +143,93 @@ Entra em contacto
 - [Manual do ultilizador](https://1drv.ms/b/s!AqhOao7_fjnS3zXEePGzVU53WBTo?e=OTviaO)
 - [Certificado de Validação AGT](https://1drv.ms/b/s!AqhOao7_fjnS6A4iXNoD-1mqa95r?e=CcC8j9)
 
-## Observações
+## Observações  
 
 N/A
+
 ---
 
 *Este projeto é certificado pela AGT (Autoridade Geral Tributária) e atende a todos os requisitos legais para gestão e facturação.*
+
+### Vamos Colaborar 
+
+Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vovê gostou do que viu aqui, não hesite em entrar em contacto. Adoraria discutir como posso contribuir para seus projectos emocionantes.
+
+Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
+
+Entra em contacto
+
+**Whatsapp:** (tel:+244 937 115 891)  
+**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+
+# Mbora
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0002.jpg" alt="Imagem 1" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0006.jpg" alt="Imagem 2" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0003.jpg" alt="Imagem 3" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0001.jpg" alt="Imagem 4" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0004.jpg" alt="Imagem 5" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0005.jpg" alt="Imagem 6" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0007.jpg" alt="Imagem 7" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0008.jpg" alt="Imagem 8" width="10%" />
+    <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0009.jpg" alt="Imagem 9" width="10%" />
+    
+</div>
+
+
+## Descrição
+
+Mbora é uma plataforma de comércio electrônico que permite aos empreendedores conectados ao MboraSystem compartilhem directamente com seus clientes ou registrem seus produtos por meio de uma API. Os produtos compartilhados ou registados estão disponíveis no Mbora para que os clientes possam encomendá-los. Assim como o MboraSystem está para gerir produtos e vendas, o Mbora está para partilhar, visualizar, comparar e encomendar produtos de determinados negócios.   
+
+## Ferramentas Utilizadas
+
+- Visual Studio Code
+- React Native (Expo)
+- Bibliotecas ultilizadas (@kanzitelli/if-component, @react-native-async-storage/async-storage, @react-native-community/masked-view, @react-native-picker/picker, @react-navigation/bottom-tabs, @react-navigation/native, @react-navigation/native-stack, @react-navigation/stack, date-fns, expo, expo-barcode-scanner, expo-blur, expo-constants, expo-dev-client, expo-device, expo-image-manipulator, expo-image-picker, expo-localization, expo-location, expo-notifications, expo-secure-store, expo-splash-screen, expo-status-bar, expo-task-manager, expo-updates, firebase, formik, i18n-js, intl, lodash, mobx, mobx-persist-store, mobx-react, react, react-dom, react-native, react-native-barcode-svg, react-native-expo-image-cache, react-native-gesture-handler, react-native-maps, react-native-maps-directions, react-native-reanimated, react-native-safe-area-context, react-native-screens, react-native-svg, react-native-ui-lib, react-native-web, rn-bounceable, yup)
+
+## Funcionalidades
+
+- ✔ Pesquisar produtos
+- ✔ Encomendar 1 ou + produtos de empresas diferentes em uma só operação.
+- ✔ Receber email de encomendas
+- ✔ Adicionar locazição do Google Maps na encomenda
+- ✔ Carrinho de compras
+- ✔ Seguir empresas
+- ✔ Adicionar Produtos aos favoritos
+- ✔ Listar empresas a seguir
+- ✔ Pesquisar empresas específicas
+- ✔ Notificações de encomendas
+- ✔ Listar encomendas
+- ✔ Adicionar localização da empresa no Google Maps
+- ✔ Categorias de produtos
+- ✔ outras...
+  
+## Demonstração da Aplicação
+
+Para ver click na imagem  
+[![Assista à apresentação do Mbora](https://img.youtube.com/vi/QAVuZ7ZuDdI/0.jpg)](https://youtu.be/QAVuZ7ZuDdI)
+
+## Instruções para instalar a aplicação
+
+Para usares a aplicação instale o app Expo Go:  
+
+- Google Play Store (Android): [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent)   
+- Apple App Store (iOS): [Expo Go](https://apps.apple.com/us/app/expo-go/id982107779)  
+  
+Após a instalação copia o link a baixo no seu navegador e scanea o código Qr:   
+(exp://exp.host/@antonioteca/mbora?release-channel=default)
+
+## Referências
+
+- React: [Documentação React](https://reactjs.org/docs/)
+- React Native: [Documentação React Native](https://reactnative.dev/docs/)
+- Expo: [Documentação Expo](https://docs.expo.dev/)
+- Laravel: [Documentação Laravel](https://laravel.com/docs/)
+
+## Observações
+
+N/A
 
 ### Vamos Colaborar 
 
