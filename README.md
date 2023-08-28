@@ -34,6 +34,7 @@ Meu objectivo é transformar ideias em realidade por meio de código, acredito q
 Neste portfólio, você encontrará uma variedade de projectos:  
 - [MboraSystem](#mborasystem)
 - [Mbora](#mbora)
+- [MboraSystem-Admin](#mborasystem-admin)
 
 Cada projecto possui uma descrição detalhada, que explora as escolhas de design, desafios técnicos superados e lições aprendidas.
 
@@ -60,7 +61,6 @@ O MboraSystem é uma solução completa de gestão comercial e faturação para 
 
 - Android Studio
 - Java
-- Bibliotecas/Frameworks utilizados (room-runtime, room-paging, room-rxjava, rxandroid, rxjava, lifecycle-viewmodel, lifecycle-livedata, groupie, paging-runtime, paging-rxjava, Firebase, jlibs-xsd, biometric, rhino-android, ion, eazegraph, itextg, zxing-android-embedded)
 
 ## Proposta de Valor
 
@@ -178,7 +178,6 @@ Entra em contacto
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0007.jpg" alt="Imagem 7" width="10%" />
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0008.jpg" alt="Imagem 8" width="10%" />
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0009.jpg" alt="Imagem 9" width="10%" />
-    
 </div>
 
 
@@ -190,7 +189,6 @@ Mbora é uma plataforma de comércio electrônico que permite aos empreendedores
 
 - Visual Studio Code
 - React Native (Expo)
-- Bibliotecas ultilizadas (@kanzitelli/if-component, @react-native-async-storage/async-storage, @react-native-community/masked-view, @react-native-picker/picker, @react-navigation/bottom-tabs, @react-navigation/native, @react-navigation/native-stack, @react-navigation/stack, date-fns, expo, expo-barcode-scanner, expo-blur, expo-constants, expo-dev-client, expo-device, expo-image-manipulator, expo-image-picker, expo-localization, expo-location, expo-notifications, expo-secure-store, expo-splash-screen, expo-status-bar, expo-task-manager, expo-updates, firebase, formik, i18n-js, intl, lodash, mobx, mobx-persist-store, mobx-react, react, react-dom, react-native, react-native-barcode-svg, react-native-expo-image-cache, react-native-gesture-handler, react-native-maps, react-native-maps-directions, react-native-reanimated, react-native-safe-area-context, react-native-screens, react-native-svg, react-native-ui-lib, react-native-web, rn-bounceable, yup)
 
 ## Funcionalidades
 
@@ -230,6 +228,56 @@ Após a instalação copia o link a baixo no seu navegador e scanea o código Qr
 - React Native: [Documentação React Native](https://reactnative.dev/docs/)
 - Expo: [Documentação Expo](https://docs.expo.dev/)
 - Laravel: [Documentação Laravel](https://laravel.com/docs/)
+
+## Observações
+
+N/A
+
+### Vamos Colaborar 
+
+Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vovê gostou do que viu aqui, não hesite em entrar em contacto. Adoraria discutir como posso contribuir para seus projectos emocionantes.
+
+Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
+
+Entra em contacto
+
+**Whatsapp:** (tel:+244 937 115 891)  
+**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+
+# MboraSystem-Admin
+<a id="mborasystem-admin"></a>
+![Login](https://github.com/antonioteca/antonioteca/blob/main/MboraSystem-Admin/Imagens/mborasyestem-admin-28-8-2023_125947.png)
+![Home](https://github.com/antonioteca/antonioteca/blob/main/MboraSystem-Admin/Imagens/mborasyestem-admin-28-8-2023_125824.png)
+
+## Descrição
+
+MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSystem, é nele onde é feita a gestão das informações de suas contas, ele também faz a gestão de pagamentos, agentes, equipas.    
+
+## Ferramentas Utilizadas
+
+- Visual Studio Code
+- React
+
+## Funcionalidades
+
+- ✔ Gestão de empresas
+- ✔ Gestão de pagamentos.
+- ✔ Gestão de agentes
+- ✔ Gestão de equipas
+- ✔ Gestão de notificações
+- ✔ outras...
+  
+## Demonstração da Aplicação
+
+Para ver click na imagem  
+[![Assista à apresentação do MboraSystem-Admin]()  
+
+## Referências
+
+- Tailwind CSS: [Documentação Tailwind CSS](https://tailwindcss.com/docs)
+- React: [Documentação React](https://reactjs.org/docs/)
+- Laravel: [Documentação Laravel](https://laravel.com/docs/)
+- Inertia: [Documentação Inertia](https://inertiajs.com/docs)
 
 ## Observações
 
