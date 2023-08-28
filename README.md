@@ -178,7 +178,6 @@ Entra em contacto
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0007.jpg" alt="Imagem 7" width="10%" />
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0008.jpg" alt="Imagem 8" width="10%" />
     <img src="https://github.com/antonioteca/antonioteca/blob/main/Mbora/Imagens/Mbora-20230827-WA0009.jpg" alt="Imagem 9" width="10%" />
-    
 </div>
 
 
@@ -230,6 +229,57 @@ Após a instalação copia o link a baixo no seu navegador e scanea o código Qr
 - React Native: [Documentação React Native](https://reactnative.dev/docs/)
 - Expo: [Documentação Expo](https://docs.expo.dev/)
 - Laravel: [Documentação Laravel](https://laravel.com/docs/)
+
+## Observações
+
+N/A
+
+### Vamos Colaborar 
+
+Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vovê gostou do que viu aqui, não hesite em entrar em contacto. Adoraria discutir como posso contribuir para seus projectos emocionantes.
+
+Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
+
+Entra em contacto
+
+**Whatsapp:** (tel:+244 937 115 891)  
+**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+
+# MboraSystem-Admin
+<a id="mborasystem-admin"></a>
+![Login](https://github.com/antonioteca/antonioteca/blob/main/MboraSystem-Admin/Imagens/mborasyestem-admin-28-8-2023_125947.png)
+![Home](https://github.com/antonioteca/antonioteca/blob/main/MboraSystem-Admin/Imagens/mborasyestem-admin-28-8-2023_125824.png)
+
+## Descrição
+
+MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSystem, é nele onde é feita a gestão das informações de suas contas, pagamentos, agentes, equipas.    
+
+## Ferramentas Utilizadas
+
+- Visual Studio Code
+- React
+- Bibliotecas ultilizadas (@inertiajs/inertia, @inertiajs/inertia-react, @inertiajs/progress, @sentry/browser, @themesberg/flowbite, @themesberg/tailwind-datepicker, classnames, cross-env, crypto-js, eslint, firebase, postcss-import, react-cookie, react-helmet, react-toastify, react-use, recharts)
+
+## Funcionalidades
+
+- ✔ Gestão de empresas
+- ✔ Gestão de pagamentos.
+- ✔ Gestão de agentes
+- ✔ Gestão de equipas
+- ✔ Gestão de notificações
+- ✔ outras...
+  
+## Demonstração da Aplicação
+
+Para ver click na imagem  
+[![Assista à apresentação do MboraSystem-Admin]()  
+
+## Referências
+
+- Tailwind CSS: [Documentação Tailwind CSS](https://tailwindcss.com/docs)
+- React: [Documentação React](https://reactjs.org/docs/)
+- Laravel: [Documentação Laravel](https://laravel.com/docs/)
+- Inertia: [Documentação Inertia](https://inertiajs.com/docs)
 
 ## Observações
 
