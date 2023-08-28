@@ -251,7 +251,7 @@ Entra em contacto
 
 ## Descrição
 
-MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSystem, é nele onde é feita a gestão das informações de suas contas, pagamentos, agentes, equipas.    
+MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSystem, é nele onde é feita a gestão das informações de suas contas, ele também faz a gestão de pagamentos, agentes, equipas.    
 
 ## Ferramentas Utilizadas
 
