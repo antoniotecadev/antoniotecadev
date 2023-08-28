@@ -60,7 +60,6 @@ O MboraSystem é uma solução completa de gestão comercial e faturação para 
 
 - Android Studio
 - Java
-- Bibliotecas/Frameworks utilizados (room-runtime, room-paging, room-rxjava, rxandroid, rxjava, lifecycle-viewmodel, lifecycle-livedata, groupie, paging-runtime, paging-rxjava, Firebase, jlibs-xsd, biometric, rhino-android, ion, eazegraph, itextg, zxing-android-embedded)
 
 ## Proposta de Valor
 
@@ -189,7 +188,6 @@ Mbora é uma plataforma de comércio electrônico que permite aos empreendedores
 
 - Visual Studio Code
 - React Native (Expo)
-- Bibliotecas ultilizadas (@kanzitelli/if-component, @react-native-async-storage/async-storage, @react-native-community/masked-view, @react-native-picker/picker, @react-navigation/bottom-tabs, @react-navigation/native, @react-navigation/native-stack, @react-navigation/stack, date-fns, expo, expo-barcode-scanner, expo-blur, expo-constants, expo-dev-client, expo-device, expo-image-manipulator, expo-image-picker, expo-localization, expo-location, expo-notifications, expo-secure-store, expo-splash-screen, expo-status-bar, expo-task-manager, expo-updates, firebase, formik, i18n-js, intl, lodash, mobx, mobx-persist-store, mobx-react, react, react-dom, react-native, react-native-barcode-svg, react-native-expo-image-cache, react-native-gesture-handler, react-native-maps, react-native-maps-directions, react-native-reanimated, react-native-safe-area-context, react-native-screens, react-native-svg, react-native-ui-lib, react-native-web, rn-bounceable, yup)
 
 ## Funcionalidades
 
@@ -258,7 +256,6 @@ MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSyste
 
 - Visual Studio Code
 - React
-- Bibliotecas ultilizadas (@inertiajs/inertia, @inertiajs/inertia-react, @inertiajs/progress, @sentry/browser, @themesberg/flowbite, @themesberg/tailwind-datepicker, classnames, cross-env, crypto-js, eslint, firebase, postcss-import, react-cookie, react-helmet, react-toastify, react-use, recharts)
 
 ## Funcionalidades
 
