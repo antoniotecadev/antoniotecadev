@@ -34,6 +34,7 @@ Meu objectivo é transformar ideias em realidade por meio de código, acredito q
 Neste portfólio, você encontrará uma variedade de projectos:  
 - [MboraSystem](#mborasystem)
 - [Mbora](#mbora)
+- [MboraSystem-Admin](#mborasystem-admin)
 
 Cada projecto possui uma descrição detalhada, que explora as escolhas de design, desafios técnicos superados e lições aprendidas.
 
