@@ -270,7 +270,7 @@ MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSyste
 ## Demonstração da Aplicação
 
 Para ver click na imagem  
-[![Assista à apresentação do MboraSystem-Admin]()  
+[![Assista à apresentação do MboraSystem-Admin](https://img.youtube.com/vi/FdXib1J28hU/0.jpg)](https://youtu.be/FdXib1J28hU) 
 
 ## Referências
 
