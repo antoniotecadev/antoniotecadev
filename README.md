@@ -116,10 +116,7 @@ Para ver click na imagem
 
 ## Instruções para instalar a aplicação
 
-Entra em contacto
-
-**Whatsapp:** (tel:+244 937 115 891)  
-**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+[Vamos Colaborar 🤝](#vamos-colaborar)
 
 ## Referências
 
@@ -157,16 +154,7 @@ N/A
 
 *Este projeto é certificado pela AGT (Autoridade Geral Tributária) e atende a todos os requisitos legais para gestão e facturação.*
 
-### Vamos Colaborar 
-
-Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vovê gostou do que viu aqui, não hesite em entrar em contacto. Adoraria discutir como posso contribuir para seus projectos emocionantes.
-
-Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
-
-Entra em contacto
-
-**Whatsapp:** (tel:+244 937 115 891)  
-**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+[Vamos Colaborar 🤝](#vamos-colaborar)
 
 # Mbora
 <a id="mbora"></a>
@@ -239,16 +227,7 @@ Após a instalação copia o link a baixo no seu navegador e scanea o código Qr
 
 N/A
 
-### Vamos Colaborar 
-
-Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vovê gostou do que viu aqui, não hesite em entrar em contacto. Adoraria discutir como posso contribuir para seus projectos emocionantes.
-
-Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
-
-Entra em contacto
-
-**Whatsapp:** (tel:+244 937 115 891)  
-**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+[Vamos Colaborar 🤝](#vamos-colaborar)
 
 # MboraSystem-Admin
 <a id="mborasystem-admin"></a>
@@ -293,16 +272,7 @@ Para ver click na imagem
 
 N/A
 
-### Vamos Colaborar 
-
-Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vovê gostou do que viu aqui, não hesite em entrar em contacto. Adoraria discutir como posso contribuir para seus projectos emocionantes.
-
-Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
-
-Entra em contacto
-
-**Whatsapp:** (tel:+244 937 115 891)  
-**E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
+[Vamos Colaborar 🤝](#vamos-colaborar)
 
 # E-Commerce-Yoga (KOOP)
 <a id="e-commerce-yoga"></a>
@@ -360,7 +330,7 @@ E-Commerce-Yoga (KOOP) é uma loja electrônico para vendas de produtos diversos
 N/A
 
 ### Vamos Colaborar 
-
+<a id="vamos-colaborar"></a>
 Estou sempre em busca de novos desafios e oportunidades de colaboração. Se vovê gostou do que viu aqui, não hesite em entrar em contacto. Adoraria discutir como posso contribuir para seus projectos emocionantes.
 
 Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
