@@ -61,6 +61,7 @@ O MboraSystem é uma solução completa de gestão comercial e faturação para 
 
 - Android Studio
 - Java
+- Firebase
 
 ## Proposta de Valor
 
@@ -189,6 +190,8 @@ Mbora é uma plataforma de comércio electrônico que permite aos empreendedores
 
 - Visual Studio Code
 - React Native (Expo)
+- MySQL
+- Firebase
 
 ## Funcionalidades
 
@@ -228,6 +231,8 @@ Após a instalação copia o link a baixo no seu navegador e scanea o código Qr
 - React Native: [Documentação React Native](https://reactnative.dev/docs/)
 - Expo: [Documentação Expo](https://docs.expo.dev/)
 - Laravel: [Documentação Laravel](https://laravel.com/docs/)
+- MySQL: [Documentação MySQL](https://dev.mysql.com/doc/)
+- Firebase: [Firebase](https://firebase.google.com/)
 
 ## Observações
 
@@ -257,6 +262,8 @@ MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSyste
 
 - Visual Studio Code
 - React
+- MySQL
+- Firebase
 
 ## Funcionalidades
 
@@ -278,6 +285,8 @@ Para ver click na imagem
 - React: [Documentação React](https://reactjs.org/docs/)
 - Laravel: [Documentação Laravel](https://laravel.com/docs/)
 - Inertia: [Documentação Inertia](https://inertiajs.com/docs)
+- MySQL: [Documentação MySQL](https://dev.mysql.com/doc/)
+- Firebase: [Firebase](https://firebase.google.com/)
 
 ## Observações
 
