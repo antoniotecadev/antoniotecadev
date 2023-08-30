@@ -35,6 +35,7 @@ Neste portfólio, você encontrará uma variedade de projectos:
 - [MboraSystem](#mborasystem)
 - [Mbora](#mbora)
 - [MboraSystem-Admin](#mborasystem-admin)
+- [E-Commerce-Yoga](#e-commerce-yoga)
 
 Cada projecto possui uma descrição detalhada, que explora as escolhas de design, desafios técnicos superados e lições aprendidas.
 
