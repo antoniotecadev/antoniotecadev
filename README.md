@@ -256,5 +256,5 @@ E-Commerce-Yoga (KOOP) é uma loja electrônica para vendas de produtos diversos
 
 Entra em contacto
 
-**Whatsapp:** (tel:+244 937 115 891)  
+**Whatsapp:** (tel:+244 932 359 808) | (tel:+244 937 115 891)
 **E-mail:** antonioteca@hotmail.com | antoniojosebuaioteca@gmail.com
