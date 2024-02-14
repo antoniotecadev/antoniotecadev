@@ -263,15 +263,6 @@ MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSyste
 Para ver click na imagem  
 [![Assista à apresentação do MboraSystem-Admin](https://img.youtube.com/vi/FdXib1J28hU/0.jpg)](https://youtu.be/FdXib1J28hU) 
 
-## Referências
-
-- Tailwind CSS: [Documentação Tailwind CSS](https://tailwindcss.com/docs)
-- React: [Documentação React](https://reactjs.org/docs/)
-- Laravel: [Documentação Laravel](https://laravel.com/docs/)
-- Inertia: [Documentação Inertia](https://inertiajs.com/docs)
-- MySQL: [Documentação MySQL](https://dev.mysql.com/doc/)
-- Firebase: [Firebase](https://firebase.google.com/)
-
 ## Observações
 
 🔒 Repositório Privado
