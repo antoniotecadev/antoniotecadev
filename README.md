@@ -59,9 +59,11 @@ Cada projecto possui uma descrição detalhada, que explora as escolhas de desig
 O MboraSystem é uma solução completa de gestão comercial e faturação para pequenos empreendedores e micro negócios que actuam em diversos sectores, incluindo beleza, alimentação, comércio ambulante, serviços de manutenção, entre outros. Desenvolvida especificamente para dispositivos móveis Android, a aplicação oferece uma interface amigável e intuitiva que permite aos usuários gerenciar suas vendas, estoques, faturamento e outras actividades comerciais de forma simples e eficiente. Além disso, o MboraSystem é certificado pela AGT, garantindo a conformidade com as regulamentações fiscais locais e a segurança dos dados. Com recursos personalizados para atender às necessidades específicas de pequenos empreendedores e micro negócios, o MboraSystem é uma solução completa e acessível que ajuda a maximizar a eficiência e o desempenho dos negócios, permitindo que seus usuários se concentrem em seu core business e alcancem seus objectivos comerciais.  
 
 ## Ferramentas Utilizadas
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java,mysql,firebase)](https://skillicons.dev)
 
 - Android Studio
 - Java
+- MySQL
 - Firebase
 
 ## Proposta de Valor
@@ -148,7 +150,7 @@ Para ver click na imagem
 
 ## Observações  
 
-N/A
+🔒 Repositório Privado
 
 ---
 
@@ -214,15 +216,6 @@ Para usares a aplicação instale o app Expo Go:
   
 Após a instalação copia o link a baixo no seu navegador e scanea o código Qr:   
 (exp://exp.host/@antonioteca/mbora?release-channel=default)
-
-## Referências
-
-- React: [Documentação React](https://reactjs.org/docs/)
-- React Native: [Documentação React Native](https://reactnative.dev/docs/)
-- Expo: [Documentação Expo](https://docs.expo.dev/)
-- Laravel: [Documentação Laravel](https://laravel.com/docs/)
-- MySQL: [Documentação MySQL](https://dev.mysql.com/doc/)
-- Firebase: [Firebase](https://firebase.google.com/)
 
 ## Observações
 
