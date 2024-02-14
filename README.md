@@ -176,6 +176,7 @@ N/A
 Mbora é uma plataforma de comércio electrônico que permite aos empreendedores conectados ao MboraSystem compartilhem directamente com seus clientes ou registrem seus produtos por meio de uma API. Os produtos compartilhados ou registados estão disponíveis no Mbora para que os clientes possam encomendá-los. Assim como o MboraSystem está para gerir produtos e vendas, o Mbora está para partilhar, visualizar, comparar e encomendar produtos de determinados negócios.   
 
 ## Ferramentas Utilizadas
+[![My Skills](https://skillicons.dev/icons?i=vscode,reactnative,expo,mysql,firebase)](https://skillicons.dev)
 
 - Visual Studio Code
 - React Native (Expo)
