@@ -284,7 +284,7 @@ N/A
 
 E-Commerce-Yoga (KOOP) é uma loja electrônico para vendas de produtos diversos.   
 
-[Ver mais](https://github.com/antonioteca/antonioteca/tree/main/E-Commerce-Yoga/Imagens) 
+[Ver repositório KOOP](https://github.com/antonioteca/e-commerce-yoga/blob/main/README.md) 
 
 Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
 
