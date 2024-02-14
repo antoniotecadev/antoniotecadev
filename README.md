@@ -225,7 +225,7 @@ Após a instalação copia o link a baixo no seu navegador e scanea o código Qr
 
 ## Observações
 
-N/A
+Repositório Privado 🔒 
 
 [Vamos Colaborar 🤝](#vamos-colaborar)
 
@@ -240,9 +240,11 @@ N/A
 MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSystem, é nele onde é feita a gestão das informações de suas contas, ele também faz a gestão de pagamentos, agentes, equipas.    
 
 ## Ferramentas Utilizadas
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,tailwind,mysql,firebase)](https://skillicons.dev)
 
 - Visual Studio Code
 - React
+- Tailwind
 - MySQL
 - Firebase
 
