@@ -1,4 +1,4 @@
-# António Teca - Portifólio de Desenvolvimento de Software (Projectos)
+# António Teca - Portifólio de Desenvolvimento de Software
 
 ## Bem-Vindo
 
