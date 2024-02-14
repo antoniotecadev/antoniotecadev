@@ -240,9 +240,10 @@ Repositório Privado 🔒
 MboraSystem-Admin é o sistema de controle dos usuários(empresas) do MboraSystem, é nele onde é feita a gestão das informações de suas contas, ele também faz a gestão de pagamentos, agentes, equipas.    
 
 ## Ferramentas Utilizadas
-[![My Skills](https://skillicons.dev/icons?i=vscode,react,tailwind,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,inertia,react,tailwind,mysql,firebase)](https://skillicons.dev)
 
 - Visual Studio Code
+- Inertia
 - React
 - Tailwind
 - MySQL
