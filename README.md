@@ -120,28 +120,6 @@ Para ver click na imagem
 
 [Vamos Colaborar 🤝](#vamos-colaborar)
 
-## Referências
-
-- Android: [Documentação Android](https://developer.android.com/docs)
-- room-runtime: [GitHub](https://github.com/android/architecture-components-samples/tree/master/RoomSample)
-- room-paging: [GitHub](https://github.com/android/architecture-components-samples/tree/master/PagingSample)
-- room-rxjava: [GitHub](https://github.com/android/architecture-components-samples/tree/master/RxJavaSample)
-- rxandroid: [GitHub](https://github.com/ReactiveX/RxAndroid)
-- rxjava: [GitHub](https://github.com/ReactiveX/RxJava)
-- lifecycle-viewmodel: [GitHub](https://developer.android.com/topic/libraries/architecture/viewmodel)
-- lifecycle-livedata: [GitHub](https://developer.android.com/topic/libraries/architecture/livedata)
-- groupie: [GitHub](https://github.com/lisawray/groupie)
-- paging-runtime: [GitHub](https://developer.android.com/topic/libraries/architecture/paging)
-- paging-rxjava: [GitHub](https://developer.android.com/topic/libraries/architecture/paging/rxjava)
-- Firebase: [Firebase](https://firebase.google.com/)
-- jlibs-xsd: [GitHub](https://github.com/jlibs/jlibs)
-- biometric: [GitHub](https://developer.android.com/jetpack/androidx/releases/biometric)
-- rhino-android: [GitHub](https://github.com/mozilla/rhino)
-- ion: [GitHub](https://github.com/koush/ion)
-- eazegraph: [GitHub](https://github.com/blackfizz/EazeGraph)
-- itextg: [GitHub](https://github.com/itext/itextg)
-- zxing-android-embedded: [GitHub](https://github.com/journeyapps/zxing-android-embedded)
-
 ## Documentação
 
 - [Política de Privacidade](https://1drv.ms/b/s!AqhOao7_fjnSjTdcM0rgRgNr5y7v?e=YuCM70)
@@ -272,7 +250,9 @@ Para ver click na imagem
 E-Commerce-Yoga (KOOP) é uma loja electrônica para vendas de produtos diversos.
 [Ver repositório](https://github.com/antonioteca/e-commerce-yoga/tree/main) 
 
-Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
+---
+
+### Obrigado por visitar meu portfólio! Fique à vontade para explorar e conectar - se.
 
 Entra em contacto
 
