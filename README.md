@@ -231,10 +231,9 @@ N/A
 
 # MboraSystem-Admin
 <a id="mborasystem-admin"></a>
-![Login](https://github.com/antonioteca/antonioteca/blob/main/MboraSystem-Admin/Imagens/mborasyestem-admin-28-8-2023_125947.png)
 ![Home](https://github.com/antonioteca/antonioteca/blob/main/MboraSystem-Admin/Imagens/mborasyestem-admin-28-8-2023_125824.png)
 
-[Ver mais](https://github.com/antonioteca/antonioteca/tree/main/MboraSystem-Admin/Imagens)  
+[Ver mais](https://github.com/antonioteca/antonioteca/tree/main/MboraSystem-Admin/Imagens)
 
 ## Descrição
 
