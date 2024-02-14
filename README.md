@@ -225,7 +225,7 @@ Após a instalação copia o link a baixo no seu navegador e scanea o código Qr
 
 ## Observações
 
-Repositório Privado 🔒 
+🔒 Repositório Privado 
 
 [Vamos Colaborar 🤝](#vamos-colaborar)
 
@@ -274,7 +274,7 @@ Para ver click na imagem
 
 ## Observações
 
-N/A
+🔒 Repositório Privado
 
 [Vamos Colaborar 🤝](#vamos-colaborar)
 
