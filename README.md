@@ -182,8 +182,7 @@
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/96/00000/solidity.png" 
 />
-<br/>
-<br/>
+
 <p>
   <img 
     align="left" 
