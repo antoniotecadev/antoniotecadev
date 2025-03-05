@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![E-mai](https://img.shields.io/badge/E--mail-D14836?label=antonioteca@hotmail.com&style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_antonioteca@hotmail.com)
 
-## Tecnologias que eu uso em meus projectos
+## 🤖 Tecnologias que eu uso em meus projectos
 
 #### Frontend
 
@@ -183,7 +183,7 @@
     src="https://img.icons8.com/color/96/00000/solidity.png" 
 />
 <br/>
-<br/>
+## 📊 Estatísticas
 <p>
   <img 
     align="left" 
