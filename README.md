@@ -5,7 +5,6 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![E-mai](https://img.shields.io/badge/E--mail-D14836?label=antonioteca@hotmail.com&style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_antonioteca@hotmail.com)
-
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/antoniotecadev)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@antoniotecadev)
 
