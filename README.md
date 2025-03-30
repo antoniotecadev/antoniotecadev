@@ -1,6 +1,6 @@
  # 👨🏾‍💻 António Teca
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.w3profile.com/antonioecadev)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniotecadev)
