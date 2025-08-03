@@ -1,6 +1,6 @@
  # 👨🏾‍💻 António Teca
 
-**`Desenvolvedor Full Stack`**
+**`Full Stack Developer`**
 
 <a href="https://www.w3profile.com/antonioecadev" target="_blank">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
@@ -24,7 +24,7 @@
 
 
 
-## 🤖 Tecnologias que eu uso em meus projectos
+## 🤖 Technologies I use in my projects
 
 #### Frontend
 
@@ -208,7 +208,7 @@
     src="https://img.icons8.com/color/96/00000/solidity.png" 
 />
 <br/>
-## 📊 Estatísticas
+## 📊 Statistics
 <p>
   <img 
     align="left" 
@@ -227,3 +227,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniotecadev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
